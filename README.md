@@ -1,10 +1,9 @@
-### Hi there 👋
-
-[![Lomba's github stats](https://github-readme-stats.vercel.app/api?username=Lomba8&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lomba8&hide=objective-c,c,ruby&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=MesseApp-v2)](https://github.com/Lomba8/MesseApp-v2)
+<a href="https://github.com/Lomba8">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Lomba8&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Lomba8">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lomba8&hide=objective-c,c,ruby&theme=tokyonight" />
+</a>
 
 <!--
 **Lomba8/Lomba8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
